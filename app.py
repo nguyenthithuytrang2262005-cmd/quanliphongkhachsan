@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime, date
-
+st.image("VT.jpg")
 st.set_page_config(
     page_title="Hotel Management System",
     page_icon="🏨",
